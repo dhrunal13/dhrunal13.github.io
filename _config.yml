@@ -10,7 +10,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   <a href="https://bowen.finance/cv/" class="btn btn--info">Resume</a>  
   <br>
   <a href="https://github.com/dhrunal13">GitHub</a>  
-   
+  <br> 
 
   
 theme: jekyll-theme-minimal
