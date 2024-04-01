@@ -2,12 +2,12 @@
 
 What's up? hey\|you
 
-I am an awesome student at Lehigh, you should hire me!
+I am an Junior at Lehigh, majoring in Finance and Business Analytics
 
 <!-- Upload your own photo and change the path -->
 
 <p style="text-align:center;">
-  <img class="img-circle" src="https://github.com/donbowen/donbowen.github.io/raw/master/images/logo.png" width="50%">
+  <img class="img-circle" src="images/ProfilePic - Copy.JPG" width="50%">
 </p>
 
 ---
