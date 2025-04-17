@@ -1,61 +1,38 @@
-## About Me
+---
+layout: default
+---
 
-What's up? hey\|you
+# About Me
 
-I am an Junior at Lehigh, majoring in Finance and Business Analytics
-
-<!-- Upload your own photo and change the path -->
+I'm Dhrunal, a senior at Lehigh University majoring in Finance and Business Analytics. I love working with numbers maintaing curiosity, critical thinking, and a deep interest in how data, business, and people intersect. Whether it’s analyzing markets, stocks, or building dashboards. I enjoy projects that bring together the combination of Finance along with data.
 
 <p style="text-align:center;">
-  <img class="img-circle" src="images/ProfilePic - Copy.JPG" width="50%">
+  <img class="img-circle" src="images/ProfilePic - Copy.JPG" width="40%" alt="Dhrunal's profile photo">
 </p>
 
 ---
 
-## Portfolio
+# Projects
 
-<!-- You can link to other websites, PDFs in this repo, and other pages in this repo -->
+**[AI Risk in 10-K Filings](midterm_summary)**  
+Used natural language processing to extract and quantify AI-related risks in SEC filings. Built high/low sentiment portfolios to analyze return patterns.  
+_Tools: Python, SEC EDGAR API, TextBlob, Pandas_
 
-_**[Natural language processing 10-Ks to identify risks](midterm_summary)**_
-
-You can show off your midterm analysis by moving the report components and output into this file. Or...
-
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/dummy_thumbnail.jpg?raw=true" width="60%">
 
 ---
 
-_**[Regression Practice](Regression_practice)**_
+# Career Objectives
 
-Or: The process that created this page can be used to show off your whole midterm analysis file, as is.
-
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+I’m interested in roles where I can combine finance, analytics, and creative problem-solving — particularly in consulting, investment research, or data strategy. I thrive in fast-paced, high-context environments and enjoy learning new tools, tackling real-world challenges, and collaborating with diverse teams.
 
 ---
 
-_**[Eventual team project](https://donbowen.github.io/teamproject/)**_
+# Hobbies
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-
-_**[Some personal project](/pdf/sample_presentation.pdf)**_
-
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+Outside of work, I enjoy stand-up comedy, road trips, writing, and learning languages. I also love creating mini passion projects — like a newsletter for my girlfriend that mixes humor with personal updates.
 
 ---
 
-## Career Objectives
-
-Write what you want. 
-
-Sell yourself!
-
----
-
-## Hobbies
-
-Maybe include a little about these, especially if they are the kinds of things that work well in interviews.
-
----
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
+
