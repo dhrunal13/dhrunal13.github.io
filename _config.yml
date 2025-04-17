@@ -6,8 +6,9 @@ description: >
   I'm a Finance & Business Analytics student at Lehigh University, passionate about solving complex problems using data and strategy.
 
   <br><br>
-  <div style="display:flex; gap:10px; flex-wrap:wrap;">
-    <a href="https://www.linkedin.com/in/dhrunal-belani/" class="btn btn--info" target="_blank">LinkedIn</a>
-    <a href="pdf/Dhrunal_Resume_GA.pdf" class="btn btn--info" target="_blank">Resume</a>
-    <a href="https://github.com/dhrunal13" class="btn btn--info" target="_blank">GitHub</a>
+  <div style="display: flex; flex-wrap: nowrap; gap: 10px; justify-content: center;">
+    <a href="https://www.linkedin.com/in/dhrunal-belani/" class="btn btn--info" target="_blank" style="flex: 1; max-width: 120px;">LinkedIn</a>
+    <a href="pdf/Dhrunal_Resume_GA.pdf" class="btn btn--info" target="_blank" style="flex: 1; max-width: 120px;">Resume</a>
+    <a href="https://github.com/dhrunal13" class="btn btn--info" target="_blank" style="flex: 1; max-width: 120px;">GitHub</a>
   </div>
+
