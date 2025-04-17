@@ -23,26 +23,30 @@ p {
   font-size: 16px;
 }
 
-/* Links */
+/* General link styling */
 a {
-  color: #007acc;
   text-decoration: none;
   font-weight: 500;
+  color: inherit; /* Inherit from parent so buttons don't go blue on hover */
 }
 
-a:hover {
-  text-decoration: underline;
-}
-
-/* Button style (e.g. resume link) */
+/* Button style */
 .btn--info {
   background-color: #007acc;
-  color: white;
+  color: white !important;
   padding: 8px 14px;
   border-radius: 6px;
   font-weight: 500;
   display: inline-block;
-  margin-right: 12px;
+  margin-bottom: 8px;
+  transition: background-color 0.3s ease;
+}
+
+/* Button hover style */
+.btn--info:hover {
+  background-color: #005f99; /* Slightly darker blue on hover */
+  color: white;
+  text-decoration: none; /* Remove underline */
 }
 
 /* Images */
