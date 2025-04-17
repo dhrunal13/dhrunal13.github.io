@@ -4,8 +4,8 @@ logo: "images/ProfilePic - Copy.JPG"
 description: >
   I'm a Finance & Business Analytics student at Lehigh University, passionate about solving complex problems using data and strategy.  
   <br><br>
-  <a href="https://www.linkedin.com/in/dhrunal-belani/" target="_blank" style="margin-right:12px">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/dhrunal-belani/" class="btn btn--info" target="_blank" style="margin-right:12px">LinkedIn</a>
   <a href="pdf/Dhrunal_Resume_GA.pdf" class="btn btn--info" target="_blank" style="margin-right:12px">Resume</a>
-  <a href="https://github.com/dhrunal13" target="_blank">GitHub</a>
+  <a href="https://github.com/dhrunal13" class="btn btn--info" target="_blank">GitHub</a>
 
 theme: jekyll-theme-minimal
