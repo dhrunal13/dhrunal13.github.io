@@ -38,14 +38,15 @@ a.btn--info {
   border-radius: 6px;
   font-weight: 500;
   display: inline-block;
+  text-align: center;
+  min-width: 100px;    
+  max-width: 100px;
   white-space: nowrap;
-  margin: 6px 6px 6px 0;
   font-size: 14px;
   text-decoration: none !important;
   transition: background-color 0.2s ease;
-  min-width: 90px; /* 👈 ADD THIS LINE */
-  text-align: center; /* 👈 AND THIS */
 }
+
 
 
 /* Button hover */
