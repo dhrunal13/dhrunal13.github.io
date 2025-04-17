@@ -30,8 +30,7 @@ I’m interested in roles where I can combine finance, analytics, and creative p
 
 # Hobbies
 
-Outside of work, I enjoy stand-up comedy, road trips, writing, and learning languages. I also love creating mini passion projects — like a newsletter for my girlfriend that mixes humor with personal updates.
-
+Outside of work, I enjoy stand-up comedy, road trips, writing, and learning languages. I also love creating mini passion projects — like a newsletter i send out to my friends back home once a month
 ---
 
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
