@@ -1,20 +1,60 @@
----
----
+/* Base styling */
+body {
+  font-family: 'Inter', sans-serif;
+  background: #fefefe;
+  color: #1a1a1a;
+  line-height: 1.7;
+  padding: 30px;
+  max-width: 850px;
+  margin: 0 auto;
+}
 
-@import "{{ site.theme }}";
+/* Headings */
+h1, h2, h3 {
+  font-weight: 700;
+  color: #222;
+  margin-top: 40px;
+  margin-bottom: 10px;
+}
 
-@media print, screen and (min-width: 1200px) {
-  .wrapper {
-    width:1200px;
-    // left side is 270
-    // 1200-270 = 930
-    // 30px free room
-    margin:0 auto;
-  }
+/* Paragraphs */
+p {
+  margin-bottom: 20px;
+  font-size: 16px;
+}
 
-  section {
-    width:900px;
-    float:right;
-    padding-bottom:50px;
-  }
+/* Links */
+a {
+  color: #007acc;
+  text-decoration: none;
+  font-weight: 500;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+/* Button style (e.g. resume link) */
+.btn--info {
+  background-color: #007acc;
+  color: white;
+  padding: 8px 14px;
+  border-radius: 6px;
+  font-weight: 500;
+  display: inline-block;
+  margin-right: 12px;
+}
+
+/* Images */
+img {
+  border-radius: 6px;
+  margin-top: 10px;
+  margin-bottom: 20px;
+  max-width: 100%;
+  height: auto;
+}
+
+/* Section spacing */
+hr {
+  margin: 40px 0;
 }
