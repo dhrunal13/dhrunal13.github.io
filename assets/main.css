@@ -66,3 +66,29 @@ img {
 hr {
   margin: 40px 0;
 }
+/* 🌑 DARK MODE STYLES */
+body.dark-mode {
+  background-color: #121212;
+  color: #e0e0e0;
+}
+
+body.dark-mode a {
+  color: #66ccff;
+}
+
+body.dark-mode .btn--info {
+  background-color: #1e88e5;
+  color: white !important;
+}
+
+body.dark-mode .btn--info:hover {
+  background-color: #1565c0;
+}
+
+/* Optional: dim SVG backgrounds */
+body.dark-mode svg path,
+body.dark-mode svg polygon,
+body.dark-mode svg circle {
+  fill: #ffffff;
+  opacity: 0.03;
+}
