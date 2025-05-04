@@ -16,7 +16,7 @@ _Tools: Python, SEC EDGAR API, TextBlob, Pandas_
 
 <img src="images/dummy_thumbnail.jpg?raw=true" width="60%">
 
-### **Macroeconomic Dashboard** - Relationship between Macroeconmic Factors and Dollar strength 
+### [Relationship between Macroeconmic Factors and Dollar strengt](Final Project Summary)
 As part of a final project, our team — **The Reddest Bulls** — created an interactive dashboard exploring how U.S. macroeconomic indicators impact the value of the U.S. dollar against major currencies.
 We used economic data (inflation, interest rates, trade balances) to forecast USD movements using statistical models, with a dashboard structured around aims, data, visualizations, and predictive tools.
 
