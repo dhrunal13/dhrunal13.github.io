@@ -14,9 +14,8 @@ I'm Dhrunal, a senior at Lehigh University majoring in Finance and Business Anal
 Used natural language processing to extract and quantify AI-related risks in SEC filings. Built high/low sentiment portfolios to analyze return patterns.  
 _Tools: Python, SEC EDGAR API, TextBlob, Pandas_
 
-<img src="images/dummy_thumbnail.jpg?raw=true" width="60%">
 
-### [Relationship between Macroeconmic Factors and Dollar strengt](Final Project Summary)
+### [Relationship between Macroeconomic Factors and Dollar Strength](Final_Project_Summary.md)
 As part of a final project, our team — **The Reddest Bulls** — created an interactive dashboard exploring how U.S. macroeconomic indicators impact the value of the U.S. dollar against major currencies.
 We used economic data (inflation, interest rates, trade balances) to forecast USD movements using statistical models, with a dashboard structured around aims, data, visualizations, and predictive tools.
 
