@@ -67,7 +67,7 @@ hr {
   margin: 40px 0;
 }
 
-/* 🌑 DARK MODE STYLES */
+/* DARK MODE STYLES */
 body.dark-mode {
   background-color: #121212;
   color: #e0e0e0;
@@ -80,6 +80,11 @@ body.dark-mode a {
 body.dark-mode a:hover {
   color: #90dfff;
   text-decoration: underline;
+}
+body.dark-mode h1,
+body.dark-mode h2,
+body.dark-mode h3 {
+  color: #ffffff;
 }
 
 /* Buttons */
