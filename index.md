@@ -16,7 +16,7 @@ _Tools: Python, SEC EDGAR API, TextBlob, Pandas_
 
 <img src="images/dummy_thumbnail.jpg?raw=true" width="60%">
 
-**Macroeconomic Dashboard: Relationship between Macroeconmic Factors and Dollar strength**  
+** Macroeconomic Dashboard: Relationship between Macroeconmic Factors and Dollar strength **  
 
 ---
 
