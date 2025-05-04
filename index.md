@@ -6,10 +6,6 @@ layout: default
 
 I'm Dhrunal, a senior at Lehigh University majoring in Finance and Business Analytics. I enjoy working with numbers while maintaining a strong sense of curiosity and critical thinking. My interests lie at the intersection of finance, data, and human behavior — whether it’s analyzing markets, building dashboards, or exploring the economic implications of emerging technologies.
 
-<p style="text-align:center;">
-  <img class="img-circle" src="images/ProfilePic - Copy.JPG" width="40%" alt="Dhrunal's profile photo">
-</p>
-
 ---
 
 # Projects
