@@ -10,13 +10,13 @@ I'm Dhrunal, a senior at Lehigh University majoring in Finance and Business Anal
 
 # Projects
 
-**[AI Risk in 10-K Filings](midterm_summary)**  
+## **[AI Risk in 10-K Filings](midterm_summary)**  
 Used natural language processing to extract and quantify AI-related risks in SEC filings. Built high/low sentiment portfolios to analyze return patterns.  
 _Tools: Python, SEC EDGAR API, TextBlob, Pandas_
 
 <img src="images/dummy_thumbnail.jpg?raw=true" width="60%">
 
-** Macroeconomic Dashboard: Relationship between Macroeconmic Factors and Dollar strength **  
+## **Macroeconomic Dashboard: Relationship between Macroeconmic Factors and Dollar strength**  
 
 ---
 
