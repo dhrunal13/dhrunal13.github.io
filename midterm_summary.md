@@ -1,35 +1,67 @@
-## You can add additional MD and HTML files to your website
+# AI Risk in 10-K Filings  
+*How S&P 500 Firms Reacted to the Rise of AI*
 
-Below, I just write an MD file from scratch.
+This project explores how AI-related sentiment in annual 10-K filings influenced the stock performance of S&P 500 firms following the release of ChatGPT on November 30, 2022.
 
-Alternatively, you can "directly" add jupyter notebooks to the site. Look at the ["Regression Practice"](Regression_practice) page for details.
+Using natural language processing techniques such as keyword matching and regular expressions, I identified themes like automation, productivity, cost-cutting, and data privacy risk. Firms were then grouped by high or low exposure to each theme, and their cumulative stock returns were compared during the event window.
 
-**Project description:** Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+---
 
-### 1. Suggest hypotheses about the causes of observed phenomena
+## Key Themes Analyzed
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
+- AI & Automation Exposure  
+- AI-Driven Productivity Gains  
+- AI-Based Cost Cutting  
+- Data Privacy and Security Risk
 
-```javascript
-if (isAwesome){
-  return true
-}
-```
+---
 
-### 2. Assess assumptions on which statistical inference will be based
+## Methodology Overview
 
-```javascript
-if (isAwesome){
-  return true
-}
-```
+**Sentiment Analysis**  
+Extracted AI-related mentions from 10-K filings using regex and thematic keyword sets.
 
-### 3. Support the selection of appropriate statistical tools and techniques
+**Portfolio Construction**  
+Firms were divided into high and low exposure groups based on the median score for each AI-related theme.
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+**Return Analysis**  
+Calculated cumulative returns for each firm within the event window surrounding ChatGPT’s public release.
 
-### 4. Provide a basis for further data collection through surveys or experiments
+**Statistical Modeling**  
+Performed correlation analysis and regression modeling, controlling for firm characteristics such as size and profitability.
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
+---
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## Key Insights
+
+- Firms with high automation exposure outperformed others during the event window.  
+- Mentions of AI-driven productivity were strongly associated with positive abnormal returns.  
+- Cost-cutting themes showed mixed effects depending on the sector.  
+- High exposure to AI-related data privacy risks correlated with underperformance, likely due to regulatory concerns.
+
+---
+
+## Files Included
+
+- `build_sample11.ipynb` – Main analysis notebook for sentiment extraction, portfolio sorting, and visualization  
+- `sp500firms_data.csv` – S&P 500 firm data with sentiment scores  
+- `event_window_returns.csv` – Daily return data for the event window
+
+---
+
+## Visualizations
+
+- Scatterplots comparing returns of high vs. low sentiment firms  
+- Heatmaps showing correlations between AI sentiment variables and cumulative returns  
+- Bar charts and regression lines illustrating key trends across AI exposure themes
+
+---
+
+## Repository
+
+Full code and data available on GitHub:  
+[View the Repository](https://github.com/yourusername/your-repo-name)
+
+---
+
+_Last updated: May 2025_
