@@ -60,7 +60,7 @@ Performed correlation analysis and regression modeling, controlling for firm cha
 ## Repository
 
 Full code and data available on GitHub:  
-[View the Repository](https://github.com/yourusername/your-repo-name)
+[View the Repository]([https://github.com/yourusername/your-repo-name](https://github.com/LeDataSciFi/asgn-05-dhrunal13))
 
 ---
 
