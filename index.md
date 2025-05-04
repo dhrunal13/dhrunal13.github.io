@@ -19,6 +19,9 @@ _Tools: Python, SEC EDGAR API, TextBlob, Pandas_
 As part of a final project, our team — **The Reddest Bulls** — created an interactive dashboard exploring how U.S. macroeconomic indicators impact the value of the U.S. dollar against major currencies.
 We used economic data (inflation, interest rates, trade balances) to forecast USD movements using statistical models, with a dashboard structured around aims, data, visualizations, and predictive tools.
 
+[View the Interactive Dashboard](https://thereddestbulls.streamlit.app/)
+
+[![Dashboard Preview](/assets/img/dashboard_preview.png)](https://thereddestbulls.streamlit.app/)
 ---
 
 # Career Objectives
